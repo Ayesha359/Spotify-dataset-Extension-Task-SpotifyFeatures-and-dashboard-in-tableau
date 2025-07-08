@@ -47,3 +47,13 @@ This "Spotify Audio Features" dataset is an invaluable resource for:
 Whether you're a music lover, a data scientist, or an aspiring AI developer, this dataset offers endless possibilities to explore the fascinating world of digital music!
 
 Happy analyzing and listening! 🚀
+
+
+
+
+![Screenshot 2025-06-03 164302](https://github.com/user-attachments/assets/b3b799f1-59b2-46c5-8996-8974ad5639bf)
+
+
+![Screenshot 2025-06-03 164432](https://github.com/user-attachments/assets/2f04375f-11a9-4ba0-99fb-43cb5717e959)
+
+
